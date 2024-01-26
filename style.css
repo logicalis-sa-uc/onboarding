@@ -1,0 +1,56 @@
+body {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  /* background-color: #302F4B; */
+  background-color: #BABABA;
+  color: #ffffff;
+}
+
+body h2 {
+  color: black;
+}
+
+.jumbotron {
+  background-color: white; /* Red jumbotron background color */
+  color: red;
+  text-align: center;
+  padding: 80px;
+  margin-bottom: 0;
+  border-bottom: solid black 3px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.options-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.option-card {
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: white; /* White card background color */
+  color: black; /* Black text color */
+  transition: transform 0.3s ease-in-out;
+  border: solid black 2px;
+
+}
+
+.option-card:hover {
+  transform: scale(1.05);
+}
+
+.form {
+  text-align: center;
+  align-items: center;
+}
+
+.logo-nav {
+  text-align: center;
+  width: 100%;
+  background-color: #343A40;
+}
+
+.logo-nav img {
+  padding: 10px;
+}

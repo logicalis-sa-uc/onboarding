@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+  }
+  .navbar {
+    justify-content: center;
+  }
+  .option-card {
+    margin: 0 auto;
+    text-align: left;
+  }
+  .form-group {
+    text-align: left;
+  }
+  button.btn-primary {
+    background-color: #d9534f; /* Red button color */
+    border-color: #d9534f;
+  }
